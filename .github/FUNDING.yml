@@ -1,0 +1,16 @@
+# These are supported funding model platforms
+
+github: # andrea-mariadb, 777ninjamusic, andipandi111
+patreon: # Andrea-MariaDB
+open_collective: # Andrea_MariaDB
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Andrea-MariaDB
+issuehunt: # Andrea-MariaDB
+otechie: # Andrea-MariaDB
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+.npm
+.yml
+.yaml
